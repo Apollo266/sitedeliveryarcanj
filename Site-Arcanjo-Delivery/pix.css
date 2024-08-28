@@ -1,0 +1,127 @@
+body{
+    background-color: #FF6B00;
+}
+
+#red5{
+    border-radius: 120px;
+    max-width: 200px;
+}
+#quadrado{
+
+width: 1326px;
+height: 949px;
+margin: auto;
+background: #B80000;
+border-radius: 147px;
+
+}
+
+#valorp{
+    position: absolute;
+width: 298px;
+height: 48px;
+left: 740px;
+top: 184px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+}
+
+#valor{
+    position: absolute;
+width: 492px;
+height: 139px;
+left: 642px;
+top: 382px;
+text-align: center;
+font-size: 3vh;
+background: #FCB886;
+border-radius: 64px;
+}
+
+#formap{
+    position: absolute;
+width: 402px;
+height: 48px;
+left: 700px;
+top: 530px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+
+#pix{
+    position: absolute;
+width: 492px;
+height: 139px;
+left: 646px;
+top: 654px;
+text-align: center;
+font-size: 3vh;
+background: #FCB886;
+border-radius: 64px;
+}
+
+#cartao{
+    position: absolute;
+width: 492px;
+height: 139px;
+left: 646px;
+top: 835px;
+text-align: center;
+font-size: 3vh;
+background: #FCB886;
+border-radius: 64px;
+}
+
+.dropbtn{
+
+    background-color: #d15400;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    border-radius: 12px;
+
+}
+  
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ff9245;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 7px;
+}
+  
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  
+.dropdown-content a:hover{
+    background-color: #ff812c;
+    border-radius: 7px;
+}
+  
+.dropdown:hover .dropdown-content {display: block;}
+  

@@ -1,0 +1,169 @@
+body{
+    background-color: #FF6B00;
+}
+
+#red4{
+        border-radius: 120px;
+        max-width: 200px;
+}
+
+#quad1{
+        width: 1308px;
+        height: 724px;
+        background: #B80000;
+        border-radius: 190px;
+        margin: auto;
+}
+ #tel{
+    width: 498px;
+    height: 124px;
+    background: #FCB886;
+border-radius: 64px;
+position: absolute;
+top:559px;
+left: 947px;
+
+
+            
+}
+#zapzap{
+    width: 120px;
+height: 120px;
+}
+
+#gmail{
+    position: absolute;
+width: 498px;
+height: 124px;
+left: 324px;
+top: 745px;
+
+background: #FCB886;
+border-radius: 64px;
+
+
+}
+
+#email{
+    position: absolute;
+    width: 100px;
+    height: 91px;
+    left: 10px;
+    top: 20px;
+}
+
+#insta{
+
+
+position: absolute;
+width: 498px;
+height: 124px;
+left: 324px;
+top: 339px;
+
+background: #FCB886;
+border-radius: 64px;
+
+
+}
+
+#ig{
+
+position: absolute;
+width: 100px;
+height: 100px;
+top: 10px;
+left: 20px;
+
+}
+
+#pig{
+
+
+position: absolute;
+width: 260px;
+height: 58px;
+left: 170px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+color: #000000;
+
+
+}
+
+#ptel{
+
+
+position: absolute;
+width: 363px;
+height: 58px;
+left: 170px;
+bottom: 1px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+color: #000000;
+
+
+}
+
+#pgm{
+position: absolute;
+width: 323px;
+height: 48px;
+left: 120px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+color: #000000;
+
+
+}
+
+.dropbtn{
+
+    background-color: #d15400;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    border-radius: 12px;
+
+}
+  
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ff9245;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 7px;
+}
+  
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  
+.dropdown-content a:hover{
+    background-color: #ff812c;
+    border-radius: 7px;
+}
+  
+.dropdown:hover .dropdown-content {display: block;}
+  

@@ -1,0 +1,130 @@
+body{
+ background-color: #FF6B00;
+}
+
+#red3{
+    border-radius: 120px;
+    max-width: 200px;
+}
+
+#quad{
+width: 1308px;
+height: 724px;
+background: #B80000;
+border-radius: 190px;
+margin: auto;
+}
+
+#telefone{
+    width: 298px;
+    height: 24px;
+    background: #FCB886;
+    border-radius: 64px;
+}
+
+#email{
+    width: 498px;
+    height: 124px;
+    background: #FCB886;
+    border-radius: 64px;
+}
+
+#Senha{
+    width: 498px;
+    height: 124px;
+    background: #FCB886;
+    border-radius: 64px;
+}
+
+#formulario{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 300px;
+    left: 400px;
+
+}
+
+label{
+    width: 163px;
+height: 48px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+}
+#ou{
+    width: 114px;
+height: 116px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 116px;
+
+color: #FFFFFF;
+position: absolute;
+top: 400px;
+left: 1059px;
+}
+
+#gog{
+    width: 139px;
+height: 134px;
+position: absolute;
+left: 1250px;
+top: 300px;
+}
+
+#apl{
+    width: 250px;
+height: 137px;
+position: absolute;
+top: 650px;
+left: 1200px;
+}
+
+.dropbtn{
+
+    background-color: #d15400;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    border-radius: 12px;
+
+}
+  
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ff9245;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 7px;
+}
+  
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  
+.dropdown-content a:hover{
+    background-color: #ff812c;
+    border-radius: 7px;
+}
+  
+.dropdown:hover .dropdown-content {display: block;}
+  
